@@ -1,0 +1,1 @@
+This is a project used for StackOverflow question:[Why does a UISnapBehavior cause a reversed animation?](http://stackoverflow.com/questions/29385551/why-does-a-uisnapbehavior-cause-a-reversed-animation)
